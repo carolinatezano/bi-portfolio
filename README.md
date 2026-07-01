@@ -4,6 +4,10 @@
 
 Profesional con más de 10 años de experiencia desarrollando soluciones de Business Intelligence para áreas de Finanzas, Operaciones y Negocio.
 
+### Sobre mí
+
+Me apasiona transformar datos en información accionable para la toma de decisiones. Durante mi carrera desarrollé soluciones de Business Intelligence, automatización de procesos y dashboards ejecutivos para áreas de Finanzas, Operaciones y Negocio, colaborando con stakeholders y equipos multidisciplinarios.
+
 ### Tecnologías
 
 - SQL
