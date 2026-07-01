@@ -24,14 +24,16 @@ Me apasiona transformar datos en información accionable para la toma de decisio
 - n8n
 - AI Automation
 
-### Actualmente
+### 🎯 Actualmente
 
-📌 Buscando oportunidades como:
+Buscando oportunidades como:
 
 - Senior BI Analyst
 - Data Analyst
 - Business Intelligence Analyst
 - Data Business Translator
+
+Interesada en proyectos relacionados con Business Intelligence, Data Analytics y Automatización con IA.
 
 ### Contacto
 
